@@ -1,5 +1,5 @@
 # Future-Robots-Informatik
 
 ## Links
-* [Trello](https://trello.com/invite/b/695e48a16bcf388129c7e171/ATTIfa32661b4991e578a6782f1e2966c02d40049FD3/future-robots-informatik)
-* [Miro](https://miro.com/welcomeonboard/UDZHR0w2bTBSbDd5b1V4VXByeWh5TklIMGY0TUM3bFFJVHRWUENVclhEVXByWHdSdTA3Zm1YSDRpRE1YS3FVemc4eW05bndrenFhTDU0TnIydTFCeFFadHZFd3hkMGtMVWJ4UkVIUHc5UUl6L2F3UmhZb293aytlK2NUNWxHd0RBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=947328293002)
+* Scrum på [Trello](https://trello.com/invite/b/695e48a16bcf388129c7e171/ATTIfa32661b4991e578a6782f1e2966c02d40049FD3/future-robots-informatik)
+* Brainstorm og ideudvikling på [Miro](https://miro.com/welcomeonboard/UDZHR0w2bTBSbDd5b1V4VXByeWh5TklIMGY0TUM3bFFJVHRWUENVclhEVXByWHdSdTA3Zm1YSDRpRE1YS3FVemc4eW05bndrenFhTDU0TnIydTFCeFFadHZFd3hkMGtMVWJ4UkVIUHc5UUl6L2F3UmhZb293aytlK2NUNWxHd0RBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=947328293002)
